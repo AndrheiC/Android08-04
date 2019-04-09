@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Logitica</string>
+    <string-array name="unidadeMedida">
+        <item>Quilograma</item>
+        <item>Litros</item>
+        <item>Gramas</item>
+        <item>Mililitros</item>
+        <item>Unidade</item>
+    </string-array>
+
+    <string-array name="simNao">
+        <item>Sim</item>
+        <item>Não</item>
+    </string-array>
+
+</resources>

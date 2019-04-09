@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1004935811091",
+    "firebase_url": "https://controlelogistica-c0dfa.firebaseio.com",
+    "project_id": "controlelogistica-c0dfa",
+    "storage_bucket": "controlelogistica-c0dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004935811091:android:6f602f60cff75b61",
+        "android_client_info": {
+          "package_name": "br.com.smarttech.acs.logitica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004935811091-atparsd09ckrvm3orcr57vln8ohl2p2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.smarttech.acs.logitica",
+            "certificate_hash": "6df4267286b5ec41952296e7e8f2134a0c81f7f8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3yh4NmE3QSLnNTwt4qAMeoFgxYnrWC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004935811091-dis8hl5lhkebrhcbl6ive3m8r5vu462l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
